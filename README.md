@@ -1,6 +1,5 @@
 # Effects of the maternal social environment on the mating signals and mate preferences of adult offspring in *Enchenopa* treehoppers
 
-[https://doi.org/10.5061/dryad.bcc2fqzk8](https://doi.org/10.5061/dryad.bcc2fqzk8)
 
 ## **Study summary**
 
@@ -23,7 +22,7 @@ Using the treehopper *Enchenopa binotata* we manipulated the egg-laying density
 5. car # version 3.1-2
 6. correlation # version 0.8.4
 
-### **Female Data**
+### **Final Female Data**
 
 **Enchenopa maternal effects pref indv function traits**
 This file contains measurements of female Enchenopa binotata mate preferences across three maternal treatments. The individuals in this dataset, represented by a Female ID, are the daughters of mated females who were subject to one of three aggregation densities (3 females/aggregation, 8 females/aggregation, or 15 females/aggregation) during egg-laying. It is important to note as well that this data has been generated from a spline (made in PFunc) of the original female responses across a range of stimuli. For the original response data, please see the holistic data set.
@@ -55,7 +54,7 @@ Here, we describe the contents of each column
 * temp: temperature (Celsius) taken within 40cm of individual at time of recording
 * mass: mass (mg) of females after recording
 
-### **Male Data**
+### **Final Male Data**
 
 **Enchenopa maternal effects males**
 This data contains all the measurements of the male advertisement signals. Measurements were taken from the third signal produced in a bout. If there was no third signal we measured the last signal in the bout. This dataset also includes general information about survivorship and sex ratio.
@@ -79,7 +78,7 @@ Here, we describe the contents of each column
 * mass: mass (mg) of females after recording
 * temp: temperature (Celsius) taken within 40cm of individual at time of recording
 
-### **Survivorship data**
+### **Final Survivorship data**
 
 **Plant replicate data**
 
